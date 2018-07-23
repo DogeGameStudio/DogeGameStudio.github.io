@@ -1,0 +1,11 @@
+html {
+  font-family: Verdana, sans-serif
+}
+
+body {
+  display: grid
+}
+
+.center-text {
+  text-align: center
+}
